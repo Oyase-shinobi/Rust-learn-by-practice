@@ -30,4 +30,3 @@ Each exercise solution is organized in its own folder within this repository. Th
 ## Disclaimer
 
 The solutions provided here are meant for educational purposes and to aid in learning Rust programming through practice. It's recommended to attempt the exercises on the Rust-By-Practice website independently before consulting the solutions. This repository is not affiliated with the Rust-By-Practice website and should not replace the valuable learning experience it offers.
-                  
